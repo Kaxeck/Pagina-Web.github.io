@@ -11,4 +11,5 @@ Javascript, HTML, CSS...
 
 
 
-Esta Pagina la hice en DEV.F con becalos. Puedes visualizarla en el siguiente link: https://kaxeck.github.io/Pagina-Web.github.io/ 
+Esta Pagina la hice en DEV.F con becalos. Puedes visualizarla en el siguiente link: 
+https://kaxeck.github.io/Pagina-Web.github.io/ 
